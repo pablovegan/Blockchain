@@ -6,7 +6,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "Quantumchain"
-authors = [Adriana Palos, Pablo Veganzones, Pablo Viñas, Gabriel Escrig]
+authors = ["Adriana Palos", "Pablo Veganzones", "Pablo Viñas", "Gabriel Escrig"]
 maintainers = [
     { name = "Pablo V. Parellada", email = "pablo.veganzones@uva.es" },
 ]
